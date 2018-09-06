@@ -1,0 +1,53 @@
+body {
+    background: #101010 url(../../../images/e-red/sinisterly_v2/background_green.png) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a:hover,
+a:active {
+    color: #62ec00;
+}
+#logo-img {
+    background: url(../../../images/e-red/sinisterly_v2/logo_green.png) no-repeat;
+}
+#logo-img:hover {
+    background: url(../../../images/e-red/sinisterly_v2/logo_green_hover.png) no-repeat;
+}
+.menu ul {}.menu ul li a:hover {
+    border-color: #409a00;
+}
+.user_block:hover a.user_anchor {
+    border-color: #409a00!important;
+    color: #409a00!important;
+}
+#panel a.circlelink:hover {
+    border-color: #409a00;
+    color: #409a00!important;
+}
+button.searchbutton {
+    background: #409a00;
+}
+.isFocused {
+    border-color: #409a00;
+}
+.thead {
+    background: #409a00;
+}
+.usertabs {
+    background: #409a00;
+}
+.bigbutton {
+    background: #409a00;
+    border: 1px solid #132f00;
+    box-shadow: inset 0px 1px 0px #62ec00;
+}
+.bigbutton:hover {
+    opacity: 0.7;
+}
+.shadetabs li a.selected {
+    background: #409a00;
+}
+.alerts_unread,
+.msgs_unread {
+    background: #409a00;
+}
