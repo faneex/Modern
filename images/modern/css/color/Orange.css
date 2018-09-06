@@ -1,0 +1,52 @@
+/* COLORS */
+a:link, a:visited {
+color: #E78140;
+}
+a:hover,
+a:active {
+color: #73767A;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+background-color: #E78140 !important;
+}
+.navbar-default .navbar-nav > li > a:focus, #logo{
+background-color: #E78140 !important;
+}
+#footer a:hover, .doughnutSummaryNumber, .title_gird_footer {
+color: #E78140
+}
+.title_gird_footer{
+border-bottom: 2px solid #E78140;
+}
+.scroll-top-wrapper, .button-stats:hover, .forum_on, .forum_on_mobile, .button-footer:hover, .header, .popup_menu1 .popup_item:hover, .menu_ucp, .menu_mcp, .private_header, .sidebar-user {
+background: #E78140;
+}
+.thead {
+background-color: #E78140 ;
+border-color: #E78140;
+}
+.btn-breadcrumb .btn.btn-default:last-child, input.button, .post_body form button[type="submit"], .post_body form button[type="cancel"], a.button:hover,a.button:active, .btn-styles, .postbit_buttons a span:hover:before, .postbit_buttons-mobile a:hover:before, .postbit_buttons-mobile1 a:hover:before, .postbit_buttons > a:link, .postbit_buttons > a:hover, .postbit_buttons > a:visited, .postbit_buttons > a:active, .header_color, button.downloadlink:hover, button.active, .sectionFooter1 span a:hover, .buddy_action a:hover, .progress-bar, .sceditor-button, .btn-color, .pagination>li>a:hover,.pagination>li>span:hover,.pagination>li>a:focus,.pagination>li>span:focus, .login_button:hover, .btn-group.open .button-sub-forum, .btn-group.open ul.dropdown-menu li.dropdown-header {
+background-color: #E78140;
+}
+.btn-breadcrumb .btn.btn-default:last-child:after, .btn-breadcrumb .btn.btn-default:last-child:hover:after{
+border-left: 10px solid #E78140;
+}
+.pagination>li>a, .pagination>li>span {
+color: #E78140 !important
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
+background-color: #E78140 !important;
+border-color: #E78140 !important;
+}
+.loader {
+border-left: 1.1em solid #E78140 !important;
+}
+.expanding-circle, .nav-sidebar li a:hover, .nav-sidebar li a:focus, .menu_ucp_sub li a:hover, .menu_mcp_sub li a:hover, .form-control:focus, input.textbox:focus, select:focus, .sceditor-container iframe:focus, .sceditor-container textarea:focus, textarea:focus, .select2-drop, .select2-container-multi.select2-container-active .select2-choices, .select2-container-active .select2-choice, .select2-container-active .select2-choices {
+border-color: #E78140 !important;
+}
+input:focus {
+border-color: #E78140
+}
+/* Selected colors - Need seprate lines for FF to use correctly */
+::selection {background-color: #E78140; color:#fff; text-shadow:0 -1px rgba(0,0,0,.2);}
+::-moz-selection {background-color: #E78140; color:#fff; text-shadow:0 -1px rgba(0,0,0,.2);}
